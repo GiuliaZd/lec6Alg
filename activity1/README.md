@@ -4,6 +4,12 @@
 
 - Answer at least 5 questions from the following link. Make sure you write the question as well as the answer.
   https://opendsa-server.cs.vt.edu/OpenDSA/Exercises/Binary/DefSumm.html
+  answer:
+  Select the one true statement.- None of the above
+  What is the minimum number of internal nodes in a binary tree with 8 nodes? - 4
+  Suppose T is a binary tree with 14 nodes. What is the minimum possible height of T? -3
+  Which statement is false? - Every binary tree has at least one node
+  What is the minimum number of nodes in a complete binary tree with height 3? - 8
 
 ## Task 2
 
