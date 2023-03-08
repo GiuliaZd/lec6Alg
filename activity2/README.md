@@ -22,12 +22,15 @@ Delete O(N) O(logN) O(N) O(N)
 
 - Explain how the code in ./src/bst.cpp works. Refer to the following link:
   https://www.geeksforgeeks.org/introduction-to-binary-search-tree-data-structure-and-algorithm-tutorials/
+  the answer: Insert a node into a BST: A new key is always inserted at the leaf. Start searching a key from the root till a leaf node. Once a leaf node is found, the new node is added as a child of the leaf node.
 
 ## Task 4: Individual (at home)
 
 - Refer to te following link. Explain how In-order Traversal is used to print a binary search tree.
   https://opendsa-server.cs.vt.edu/OpenDSA/Books/Everything/html/BinaryTreeTraversal.html#inorder-traversal
-  answer: the items are "collected" in the growing order, thus making the traversal In-order.
+  answer:
+  An inorder traversal first visits the left child (including its entire subtree), then visits the node, and finally visits the right child (including its entire subtree). The binary search tree makes use of this traversal to print all nodes in ascending order of value.
+  So the items are "collected" in the growing order, thus making the traversal In-order.
 
 ## Link(s)
 
